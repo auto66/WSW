@@ -1,1 +1,1 @@
-let WSWversion = '0.7.1';
+let WSWversion = '0.8.0';
